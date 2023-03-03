@@ -6,4 +6,4 @@
 |02|20120307|Phạm Gia Khiêm|20120307@student.hcmus.edu.vn|
 ## 2. Plant Recognition
 ## 2.1. Abstract
-Plant recognition 
+Plant recognition is exactly identify plants through features of plant leaves, such as: shape, color and texture features using digital image processing techniques. 
